@@ -7,7 +7,7 @@ function jump() {
 
         setTimeout(function () {
             dino.classList.remove("jump");
-        }, 300);
+        }, 500);
     }
 }
 
